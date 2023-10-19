@@ -11,10 +11,11 @@ Given by: Bharat Intern
 
 ## Video Demo
 
-Watch a video demonstration of the MyCalc app on Folder.
+Watch a video demonstration of the MyCalc app.
+![Click to Watch](https://github.com/abhishekb13402/MyCalc/blob/main/MyCalc.mp4)
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.jpg)
-![Screenshot 2](screenshot2.jpg)
-![Screenshot 3](screenshot3.jpg)
+![Screenshot 1](Screenshot1.jpg)
+![Screenshot 2](Screenshot2.jpg)
+![Screenshot 3](Screenshot3.jpg)
