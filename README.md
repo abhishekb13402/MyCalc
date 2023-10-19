@@ -16,6 +16,6 @@ Watch a video demonstration of the MyCalc app.
 
 ## Screenshots
 
-![Screenshot 1](Screenshot1.jpg)
-![Screenshot 2](Screenshot2.jpg)
-![Screenshot 3](Screenshot3.jpg)
+<img src="Screenshot1.png" width="300" height="500" alt="Screenshot 1">
+<img src="Screenshot2.png" width="300" height="500" alt="Screenshot 2">
+<img src="Screenshot3.png" width="300" height="500" alt="Screenshot 3">
